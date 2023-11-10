@@ -1,0 +1,11 @@
+<h2 mat-dialog-title>Eliminar empleado</h2>
+<div mat-dialog-content>
+    ¿esta seguro de borrar el empleado? "{{dataEmpleado.nombreCompleto}}"?
+</div>
+<mat-dialog-actions align="end">
+  <button mat-raised-button mat-dialog-close color="warn">Cancelar</button>
+  <button mat-raised-button mat-dialog color="primary" 
+  (click)="Eliminar()" cdkFocusInitial>
+    Eliminar Definitivamente
+  </button>
+</mat-dialog-actions>

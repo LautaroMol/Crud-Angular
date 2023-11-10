@@ -1,0 +1,156 @@
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\appsettings.Development.json
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\appsettings.json
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.exe
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.deps.json
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.runtimeconfig.json
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.pdb
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Azure.Core.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Humanizer.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.AssemblyReference.cache
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.AssemblyInfoInputs.cache
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.AssemblyInfo.cs
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.CoreCompileInputs.cache
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.MvcApplicationPartsAssemblyInfo.cs
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.MvcApplicationPartsAssemblyInfo.cache
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.BackEndApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BackEndApi.props
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BackEndApi.props
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BackEndApi.props
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\scopedcss\bundle\BackEndApi.styles.css
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.CopyComplete
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\refint\BackEndApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.pdb
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.genruntimeconfig.cache
+D:\angular\practicas\BackEndApi\BackEndApi\obj\Debug\net7.0\ref\BackEndApi.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\AutoMapper.dll
+D:\angular\practicas\BackEndApi\BackEndApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\appsettings.Development.json
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\appsettings.json
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.exe
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.deps.json
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.runtimeconfig.json
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\BackEndApi.pdb
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\AutoMapper.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Azure.Core.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Humanizer.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.AssemblyReference.cache
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.AssemblyInfoInputs.cache
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.AssemblyInfo.cs
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.CoreCompileInputs.cache
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.MvcApplicationPartsAssemblyInfo.cs
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.MvcApplicationPartsAssemblyInfo.cache
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.BackEndApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BackEndApi.props
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BackEndApi.props
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BackEndApi.props
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\scopedcss\bundle\BackEndApi.styles.css
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.csproj.CopyComplete
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\refint\BackEndApi.dll
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.pdb
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\BackEndApi.genruntimeconfig.cache
+D:\angular\crud angular\BackEndApi\BackEndApi\obj\Debug\net7.0\ref\BackEndApi.dll
